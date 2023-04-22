@@ -1,0 +1,28 @@
+[INFO] 20:15:15:490 Prueba_Logger/(9294:9294): Prueba de log info
+[INFO] 20:15:15:491 Prueba_Logger/(9294:9294): valor
+[INFO] 20:15:15:491 Prueba_Logger/(9294:9294): 127.0.0.1
+[INFO] 20:15:15:491 Prueba_Logger/(9294:9294): 4444
+[INFO] 20:15:57:652 Prueba_Logger/(9294:9294): Asereje
+[INFO] 20:16:00:025 Prueba_Logger/(9294:9294): Ja
+[INFO] 20:16:01:324 Prueba_Logger/(9294:9294): Deje
+[INFO] 20:16:03:950 Prueba_Logger/(9294:9294): 
+[INFO] 20:17:40:556 Prueba_Logger/(9344:9344): Prueba de log info
+[INFO] 20:17:40:557 Prueba_Logger/(9344:9344): valor
+[INFO] 20:17:40:557 Prueba_Logger/(9344:9344): 127.0.0.1
+[INFO] 20:17:40:557 Prueba_Logger/(9344:9344): 4444
+[INFO] 20:18:20:563 Prueba_Logger/(9390:9390): Prueba de log info
+[INFO] 20:18:20:564 Prueba_Logger/(9390:9390): valor
+[INFO] 20:18:20:564 Prueba_Logger/(9390:9390): 127.0.0.1
+[INFO] 20:18:20:564 Prueba_Logger/(9390:9390): 4444
+[INFO] 20:20:45:615 Prueba_Logger/(9462:9462): Prueba de log info
+[INFO] 20:20:45:615 Prueba_Logger/(9462:9462): valor
+[INFO] 20:20:45:615 Prueba_Logger/(9462:9462): 127.0.0.1
+[INFO] 20:20:45:615 Prueba_Logger/(9462:9462): 4444
+[INFO] 20:21:34:793 Prueba_Logger/(9476:9476): Prueba de log info
+[INFO] 20:21:34:793 Prueba_Logger/(9476:9476): valor
+[INFO] 20:21:34:793 Prueba_Logger/(9476:9476): 127.0.0.1
+[INFO] 20:21:34:793 Prueba_Logger/(9476:9476): 4444
+[INFO] 20:22:54:804 Prueba_Logger/(9517:9517): Prueba de log info
+[INFO] 20:22:54:804 Prueba_Logger/(9517:9517): valor
+[INFO] 20:22:54:804 Prueba_Logger/(9517:9517): 127.0.0.1
+[INFO] 20:22:54:804 Prueba_Logger/(9517:9517): 4444
